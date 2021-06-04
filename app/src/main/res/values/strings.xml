@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Gestion Stock</string>
+    <string name="product_name">Nom du produit</string>
+    <string name="available_quantity">Quantité Disponible:</string>
+    <string name="delete_all_dialog">Êtes-vous sûr de vouloir supprimer tous les produits?</string>
+    <string name="delete_all">Tout supprimer</string>
+    <string name="delete">Effacer</string>
+    <string name="delete_this_item">Supprimer ce produit?</string>
+    <string name="cancel">Annuler</string>
+    <string name="exit_without_saving">Quitter sans sauvegarder?</string>
+    <string name="discard_changes">Annuler les modifications</string>
+    <string name="stay_here">Reste ici</string>
+
+    <!-- Title text for the empty view, which describes the empty dog house image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">C\'est un peu solitaire ici...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a pet [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Commencez par ajouter un produit</string>
+
+
+
+</resources>
